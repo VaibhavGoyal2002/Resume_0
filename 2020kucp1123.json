@@ -1,0 +1,77 @@
+{
+    "basics": {
+        "name": "Vaibhav Goyal",
+        "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/88191615?v=4",
+        "email": "2020kucp1123@iiitkota.ac.in",
+        "phone": "+919462002497",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Rajasthan",
+            "postalCode": "322230",
+            "city": "Hindaun City",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "VaibhavGoyal2002",
+                "url": "https://github.com/VaibhavGoyal2002"
+            },
+            {
+                "network": "linkedin",
+                "username": "Vaibhav Goyal",
+                "url": "https://www.linkedin.com/in/vaibhav-goyal-932530202"
+            },
+            {
+                "network": "Instagram",
+                "username": "vaibhavgoyal2002",
+                "url": "https://instagram.com/vaibhavgoyal2002?utm_medium=copy_link"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cooking",
+            "keywords": [
+                "Cooking"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "cricket",
+                "Badminton"
+		
+            ]
+        }
+    ],
+    "references": []
+}
